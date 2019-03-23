@@ -50,6 +50,10 @@
           <option name="url" value="https://bitbucket.org/javagda19/design_patterns/src" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:SaintAmeN/javagda21_wzorce.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\JN\IdeaProjects" />
