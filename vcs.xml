@@ -98,6 +98,10 @@
           <option name="url" value="https://JacekNowicki@bitbucket.org/JacekNowicki/java23hibernate2extra.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mzubala/tennisassist.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\JN\IdeaProjects" />
